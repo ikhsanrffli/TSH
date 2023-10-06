@@ -372,7 +372,7 @@ header .navbar {
     background-repeat: no-repeat;
     background-size: cover;
     width: 100%;
-	
+    height: auto; /* Menambahkan properti ini untuk menghindari gambar menjadi terlalu tinggi di perangkat tertentu */
 }
 
 .call-to-action .main-content span {
