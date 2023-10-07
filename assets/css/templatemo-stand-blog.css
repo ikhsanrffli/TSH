@@ -413,6 +413,7 @@ header .navbar {
 	overflow: hidden;
 }
 
+
 .blog-posts .down-content {
 	padding: 40px;
 	border-right: 1px solid #eee;
@@ -1015,6 +1016,11 @@ footer p a:hover {
 	.owl-banner .owl-nav {
 		display: none;
 	}
+	.call-to-action .main-content{
+		width: 100%;
+		height: auto;
+
+	}
 	
 }
 
@@ -1097,6 +1103,11 @@ footer p a:hover {
 	.contact-us .contact-information {
 		margin-left: 0px;
 		margin-top: 60px;
+	}
+	.call-to-action .main-content{
+		width: 100%;
+		height: auto;
+
 	}
 }
 
